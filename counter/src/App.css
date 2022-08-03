@@ -1,0 +1,32 @@
+.counterwrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.counter {
+  padding: 50px;
+  border-radius: 70px;
+  background: #f85700;
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border: 3px solid white;
+}
+
+.buttonwrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.wrapper {
+  background: #30576f;
+  width: 300px;
+  height: 235px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+}

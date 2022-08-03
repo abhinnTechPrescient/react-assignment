@@ -1,0 +1,45 @@
+.counterwrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  border-radius: 100px;
+  color: white;
+  font-size: 27px;
+  font-weight: 500;
+  width: 60px;
+  height: 60px;
+  border: 3px solid white;
+}
+
+.wrapper {
+  background: #30576f;
+  margin: auto;
+  height: 260px;
+  width: 250px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.buttonwrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.temparature_normal {
+  background: #195ba6;
+}
+
+.temparature_alert {
+  background: #f85700;
+}
+
+.text-center {
+  text-align: center;
+}
